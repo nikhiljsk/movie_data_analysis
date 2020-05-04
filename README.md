@@ -1,4 +1,5 @@
 # Movie Data Analysis
+This repo holds the code for analyzing a Dataset as part of the IBM Hackchallenge 2018. The same project has been awarded the "The Jury Award" in the competition. 
 
 A command line based interface using Python-3 which is capable of asking the query from user in text format or even in Image format and get the answer from the dataset.
 We’ve used Natural Language Processing and Image processing libraries to achieve this. We have also analyzed the emotions of the film 
